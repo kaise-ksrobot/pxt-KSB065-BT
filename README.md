@@ -1,24 +1,22 @@
+# KSB065 Home Automation Board 家庭自動化擴展板
 
-> 在 [https://kaise-ksrobot.github.io/pxt-ksb065-bt/](https://kaise-ksrobot.github.io/pxt-ksb065-bt/) 打開此頁面
+![image](images/KSB065.png)
 
-## 作為擴充功能使用
+[教學網站](https://kaise-ksrobot.github.io/docs/ch/KSB/microbit/KSB065.html) 
 
-可以在 MakeCode 中將此儲存庫新增為**擴充功能**。
 
-* 開啟 [https://makecode.microbit.org/](https://makecode.microbit.org/)
-* 按一下**新專案**
-* 按一下工具齒輪選單下的**擴充功能**
-* 搜索 **https://github.com/kaise-ksrobot/pxt-ksb065-bt** 並匯出
+## User Guide 
 
-## 編輯此專案
 
-編輯 MakeCode 中的儲存庫。
+## Code Example 
 
-* 開啟 [https://makecode.microbit.org/](https://makecode.microbit.org/)
-* 按一下**匯入**，然後按一下**匯入 URL**
-* 貼上 **https://github.com/kaise-ksrobot/pxt-ksb065-bt** 並按一下匯入
+## License
 
-#### 中繼資料 (用於搜索、渲染)
+MIT
+
+## Supported targets
 
 * for PXT/microbit
-<script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
+(The metadata above is needed for package search.)
+
+
