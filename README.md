@@ -4,6 +4,8 @@
 
 [教學網站](https://kaise-ksrobot.github.io/docs/ch/KSB/microbit/KSB065.html) 
 
+此版本為了配合Bluetooth 使用，取消 NeoPixel RGB LED 積木
+
 
 ## User Guide 
 

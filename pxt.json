@@ -5,7 +5,6 @@
     "license": "MIT",
     "dependencies": {
         "core": "*",
-        "neopixel": "github:microsoft/pxt-neopixel",
         "KS_LCD":"github:kaise-ksrobot/pxt-KS-LCD"
     },
     "files": [

@@ -35,7 +35,7 @@ enum LedType {
 //% weight=10 color=#00A6F0 icon="\uf085" block="KSB065"
 namespace KSB065 {
 
-    let neoStrip: neopixel.Strip;
+    //let neoStrip: neopixel.Strip;
     let initialized = false;
 
 
@@ -144,9 +144,15 @@ namespace KSB065 {
     /**
     * P10
     */
-    //% blockId="KSB065_RGB" 
+    //% blockId="KSB065_RGB"
     //% block="RGB %led"
     //% weight=45
+    export function RGB_LED(led: LedType): void {
+        
+
+    }
+
+    /*
     export function RGB_LED(led: LedType): neopixel.Strip {
 
         if (!neoStrip) {
@@ -173,7 +179,7 @@ namespace KSB065 {
         }
         return neoStrip;
 
-    }
+    }*/
 
     /**
     * P9
